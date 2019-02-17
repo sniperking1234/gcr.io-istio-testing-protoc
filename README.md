@@ -1,2 +1,2 @@
-# gcr.io-istio-testing-website-builder
-mirror of gcr.io/istio-testing/website-builder
+# gcr.io-istio-testing-protoc
+mirror of gcr.io/istio-testing/protoc
