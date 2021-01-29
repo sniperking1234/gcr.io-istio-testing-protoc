@@ -1,0 +1,1 @@
+FROM kong/go-plugin-tool:2.0.4-ubuntu-xenial
